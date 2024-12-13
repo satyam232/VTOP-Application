@@ -1,0 +1,17 @@
+### Data Handling and Privacy
+We prioritize your privacy and data security. The app does not export, store, or save any personal information, including usernames, passwords, or other sensitive data. The app serves solely as a conduit to reflect the information provided by VTOP, and it does not interact with, modify, or retain any personal data on external databases or servers.
+
+### No Data Storage
+The app does not store any of your personal information on our servers or in any external databases. All data, including your login credentials and any other personal information, is used only temporarily within the app to provide the intended functionality and is not saved beyond the session in which it is used.
+
+### Data Reflection
+All data presented within the app is retrieved directly from VTOP in real-time. The app functions as a viewer of your VTOP data and does not alter, store, or share this data with any third party.
+
+### Security of Your Information
+While the app accesses your VTOP account to retrieve necessary data, it does so using secure methods and only for the purpose of displaying this data to you within the app. We do not have access to or store your login credentials or any other personal information beyond the duration of your session.
+
+### No Liability for VTOP Data
+As the data reflected in the app comes directly from VTOP, we are not responsible for any inaccuracies or issues that may arise from the data provided by VTOP. The app is solely a tool to view your VTOP information in a user-friendly manner.
+
+### Acceptance of Terms
+By using this app, you acknowledge that you understand and agree to these terms and conditions. You accept that no personal data is stored or exported by the app and that your information is handled with utmost security and privacy within the confines of the session.
