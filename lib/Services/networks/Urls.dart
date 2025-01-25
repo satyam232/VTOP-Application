@@ -1,5 +1,4 @@
-class AllUrls {
-  
+class AllUrls {  
   static String base = 'http://192.168.219.65:8502';
   static String login = '$base/vtop/login';
   static String timetable = '$base/vtop/timetable';
